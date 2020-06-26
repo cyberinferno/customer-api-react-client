@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> Customer info test +++ Capturing Snapshot of CustomerInfo 1`] = `
+<div>
+  <div>
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-8"
+      >
+        <table
+          className="table table-bordered"
+        >
+          <tbody>
+            <tr>
+              <th>
+                ID
+              </th>
+              <td>
+                1
+              </td>
+            </tr>
+            <tr>
+              <th>
+                Name
+              </th>
+              <td>
+                Customer 1
+              </td>
+            </tr>
+            <tr>
+              <th>
+                Address
+              </th>
+              <td>
+                #1 Nice Apartments, 5th cross, Bengaluru 560001
+              </td>
+            </tr>
+            <tr>
+              <th>
+                Country
+              </th>
+              <td>
+                India
+              </td>
+            </tr>
+            <tr>
+              <th>
+                Phone Number
+              </th>
+              <td>
+                9876543210
+              </td>
+            </tr>
+            <tr>
+              <th>
+                Created At
+              </th>
+              <td>
+                2020-06-25T00:00:00.000Z
+              </td>
+            </tr>
+            <tr>
+              <th>
+                Updated At
+              </th>
+              <td>
+                2020-06-25T00:00:00.000Z
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div
+      className="row"
+      style={
+        Object {
+          "marginTop": "20px",
+        }
+      }
+    >
+      <div
+        className="col-sm-12"
+      >
+        <a
+          className="btn btn-danger"
+          href="/"
+          onClick={[Function]}
+        >
+          Back
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

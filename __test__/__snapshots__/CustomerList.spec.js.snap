@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> Customer list test +++ Capturing Snapshot of CustomerList 1`] = `
+<div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-sm-8"
+    >
+      <table
+        className="table table-bordered"
+      >
+        <thead>
+          <tr>
+            <th>
+              #
+            </th>
+            <th>
+              Name
+            </th>
+            <th>
+              Phone Number
+            </th>
+            <th>
+              Actions
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              1
+            </td>
+            <td>
+              Customer 1
+            </td>
+            <td>
+              9876543210
+            </td>
+            <td>
+              <a
+                href="/customer/1"
+                onClick={[Function]}
+              >
+                View Details
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <nav>
+    <ul
+      className="pagination"
+    >
+      <li
+        className="page-item"
+      >
+        <a
+          className="page-link"
+          href="/?page=NaN"
+          onClick={[Function]}
+        >
+          Previous
+        </a>
+      </li>
+      <li
+        className="page-item disabled"
+      >
+        <span
+          className="page-link"
+        >
+          Next
+        </span>
+      </li>
+    </ul>
+  </nav>
+</div>
+`;
